@@ -3,6 +3,11 @@
   "features": {
     "ghcr.io/rocker-org/devcontainer-features/miniforge:1": {}
   },
-  "postCreateCommand": "mamba env create -f environment.yml",
-  "postStartCommand": "conda activate 2023-07-11-scipy-tutorial-advanced-numpy"
+  "postCreateCommand": [
+    "mamba env create -f environment.yml"
+  ],
+  "postStartCommand": [
+    "conda init bash",
+    "conda activate 2023-07-11-scipy-tutorial-advanced-numpy"
+  ]
 }
