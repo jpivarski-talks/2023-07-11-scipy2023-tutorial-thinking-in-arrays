@@ -3,10 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - awkward==2.1.2
-  - clang-tools==15.0.7
-  - cudatoolkit==11.3.1
-  - cupy==12.0.0
-  - cxx-compiler==1.5.2
   - fsspec==2023.4.0
   - h5py==3.8.0
   - hepunits==2.3.2
@@ -23,15 +19,11 @@ dependencies:
   - numpy==1.23.5
   - pandas==2.0.0
   - particle==0.22.0
-  - protobuf==4.21.12
   - pyarrow==11.0.0
-  - pybind11==2.10.4
   - pytables==3.8.0
   - python==3.10.10
   - python-xxhash==3.2.0
-  - root==6.28.0
   - scikit-learn==1.2.2
-  - tensorflow-gpu==2.11.0
   - uproot==5.0.5
   - vector==1.0.0
   - zstandard==0.19.0
