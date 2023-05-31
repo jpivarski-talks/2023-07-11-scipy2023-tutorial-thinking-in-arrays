@@ -1,3 +1,4 @@
+name: 2023-07-11-scipy-tutorial-advanced-numpy
 channels:
   - conda-forge
 dependencies:
