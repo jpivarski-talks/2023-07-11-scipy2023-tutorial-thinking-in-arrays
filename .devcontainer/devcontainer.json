@@ -3,5 +3,5 @@
   "features": {
     "ghcr.io/rocker-org/devcontainer-features/miniforge:1": {}
   },
-  "postCreateCommand": "mamba env create -f environment.yml  &&  echo 'mamba activate 2023-07-11-scipy-tutorial-advanced-numpy' >> /home/vscode/.bashrc"
+  "postCreateCommand": "./.devcontainer/postCreateCommand.sh"
 }
