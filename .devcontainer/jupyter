@@ -1,0 +1,5 @@
+conda init bash
+
+conda activate 2023-07-11-scipy-tutorial-advanced-numpy
+
+echo /opt/conda/envs/2023-07-11-scipy-tutorial-advanced-numpy/bin/jupyter $@
