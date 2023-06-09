@@ -32,7 +32,7 @@ You can also install the packages on your personal computer ([see below](#runnin
 
 1. Log into your GitHub account and open this page (this repo).
 
-2. Launch a Codespace using the green buttons shown below. It will launch in a new tab.
+2. Launch a Codespace using the green buttons shown below. It will open in a new tab.
 
 <kbd><img src="https://github.com/jpivarski-talks/2023-07-11-scipy-tutorial-advanced-numpy/assets/1852447/9416081a-24b3-4d27-91ac-7143309cfcd1" width="100%"></img></kbd>
 
