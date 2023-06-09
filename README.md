@@ -16,7 +16,7 @@ This tutorial consists of interactive lectures and exercises, all of which are i
 
 The method of running the notebooks that we support is through GitHub Codespaces, which requires a GitHub account and either 8 remaining core-hours on your free account (see [your billing](https://github.com/settings/billing)) or a [paid plan](https://docs.github.com/en/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces).
 
-You can also install the packages on your personal computer (see below), but we can't help you with installation problems if you do it this way.
+You can also install the packages on your personal computer ([see below](#running-the-notebooks-on-your-personal-computer)), but we can't help you with installation problems if you do it this way.
 
 ### Running the notebooks in Codespaces
 
@@ -73,11 +73,5 @@ jupyter lab
 ```
 
 It should attempt to open a browser tab to the Jupyter process running on your computer, and provides some URLs in the terminal in case that doesn't work.
-
-### Does everyone have JupyterLab running?
-
-<div style="overflow: hidden;">
-<iframe src="https://app.sli.do/event/rbr8JR3hY4WEZ9CpWm94Xg/embed/polls/59a6a922-0e3c-4294-9e2c-67d810e0c627" width="100%" height="600" style="border: none;"></iframe>
-</div>
 
 ## HERE
