@@ -65,7 +65,7 @@ wget https://raw.githubusercontent.com/jpivarski-talks/2023-07-11-scipy-tutorial
 conda env create -f environment.yml   # can replace "conda" with "mamba"
 ```
 
-The command to [activate that environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#activating-an-environment) is
+The command to [activate that environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#activating-an-environment) (once per terminal) is
 
 ```bash
 conda activate 2023-07-11-scipy-tutorial-advanced-numpy
