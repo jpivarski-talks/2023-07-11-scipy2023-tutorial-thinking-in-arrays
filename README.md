@@ -56,7 +56,7 @@ You can also install the packages on your personal computer ([see below](#runnin
 
 If you have some version of conda/mamba/Anaconda/Miniconda/Miniforge, you can install the [environment.yml](environment.yml) as a new environment, then activate that environment and run JupyterLab.
 
-If you're new to this package manager, we recommend the mamba version of [Miniforge](https://github.com/conda-forge/miniforge), which has [detailed instructions here](https://scikit-hep.org/user/installing-conda).
+If you're new to this package manager, we recommend the mamba/CPython version of [Miniforge](https://github.com/conda-forge/miniforge), which has [detailed instructions here](https://scikit-hep.org/user/installing-conda).
 
 Once conda/mamba is installed, the command to [create an environment from a file](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) is
 
