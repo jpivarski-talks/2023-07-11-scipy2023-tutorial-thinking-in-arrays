@@ -93,7 +93,7 @@ It should attempt to open a browser tab to the Jupyter process running on your c
 In each directory, [part-1](part-1), [part-2](part-2), and [part-3](part-3), there are four notebooks:
 
   * **lecture-slides:** the presentation, to be viewed in [jupyterlab-deck](https://jupyterlab-deck.readthedocs.io/)
-  * **lecture-workbook:** for participants to use during the lecture; acts as a scratch-pad for solving "quizlets" (small exercises)
+  * **lecture-workbook:** for participants to use during the lecture; acts as a scratch-pad for solving "quizlets"
   * **project:** a larger exercise to work on after each lecture
   * **solutions:** discussion of different ways to solve the exercise.
 
