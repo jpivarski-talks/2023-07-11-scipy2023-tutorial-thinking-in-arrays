@@ -117,13 +117,11 @@ Offline, after the event, open both notebooks and read through the **lecture-sli
 
 **1:55‒2:10 (15 min):** Break
 
-**2:10‒2:30 (20 min):** Solutions to Project 2.
+**2:10‒2:40 (30 min):** Solutions to Project 2.
 
-**2:30‒2:45 (15 min):** Intermezzo: imperative and array-oriented JIT-compilation, on CPUs and GPUs, using the Mandelbrot (fractal) picture. Discussion of performance and trade-offs.
+**2:40‒3:00 (20 min):** Part 3 lecture: non-rectilinear (ragged) arrays and arrays of arbitrary data structures: Apache Arrow and Awkward Array.
 
-**2:45‒3:05 (20 min):** Part 3 lecture: non-rectilinear (ragged) arrays and arrays of arbitrary data structures: Apache Arrow and Awkward Array.
-
-**3:05‒3:25 (20 min):** Project 3: a big, ragged dataset: computing lengths of taxi trips from polylines with varying numbers of edges. Since this is a big dataset, we'll also look at ways to scale it up with Dask.
+**3:00‒3:25 (25 min):** Project 3: a big, ragged dataset: computing lengths of taxi trips from polylines with varying numbers of edges. Since this is a big dataset, we'll also look at ways to scale it up with Dask.
 
 **3:25‒3:40 (15 min):** Break
 
