@@ -20,35 +20,13 @@ We'll alternate between short lectures and small group projects (3‒4 people ea
 
 You should have a basic familiarity with NumPy, such as the content of the "[Introduction to Numerical Computing With NumPy](https://cfp.scipy.org/2023/talk/UJBWPQ/)" tutorial.
 
-This tutorial consists of interactive lectures and exercises, all of which run in Jupyter notebooks. These notebooks depend on the libraries listed in [environment.yml](environment.yml). If you're attending the tutorial in person, you _should_ run the notebooks along with the instructor. The notebooks can also be run offline, after the event.
+This tutorial consists of interactive lectures and exercises, all of which run in Jupyter notebooks. These notebooks depend on the libraries listed in [environment.yml](environment.yml). On the day of the tutorial, we will use Quansight's Nebari platform to run the notebooks in the cloud with all dependencies installed. See
 
-The method of running the notebooks that we support is through GitHub Codespaces, which requires a GitHub account and either 8 remaining core-hours on your free account (see [your billing](https://github.com/settings/billing)) or a [paid plan](https://docs.github.com/en/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces).
+<h3 align="center"><a href="https://docs.google.com/document/d/1vnWhNyUBRpILb2MAHQfTmZQY3pCIaCmroV9ke49nQlE/edit?usp=sharing", target="_blank">Nebari instructions</a></h3>
 
-You can also install the packages on your personal computer ([see below](#running-the-notebooks-on-your-personal-computer)), but we can't help you with installation problems if you do it this way.
+to get started.
 
-<br>
-
-### Running the notebooks in Codespaces
-
-1. Log into your GitHub account and open this page (this repo).
-
-2. Launch a Codespace using the green buttons shown below. It will open in a new tab.
-
-<kbd><img src="https://github.com/jpivarski-talks/2023-07-11-scipy-tutorial-advanced-numpy/assets/1852447/9416081a-24b3-4d27-91ac-7143309cfcd1" width="100%"></img></kbd>
-
-3. Wait a few seconds and it will automatically install the packages into your Codespace.
-
-<kbd><img src="https://github.com/jpivarski-talks/2023-07-11-scipy-tutorial-advanced-numpy/assets/1852447/25f00392-0f66-4a49-8a54-a156b37b8eaf" width="100%"></img></kbd>
-
-4. Package installation takes a few minutes, and high CPU utilization is expected. There is an option to watch the installation log (shown below).
-
-<kbd><img src="https://github.com/jpivarski-talks/2023-07-11-scipy-tutorial-advanced-numpy/assets/1852447/d2f4aef8-a63e-41cb-b398-e306865139c1" width="100%"></img></kbd>
-
-5. On the original browser tab (this page), you may need to reload to see the running Codespace. It will have a random, but memorable, name. Open its "..." menu and "Open with..." (shown below) to select "JupyterLab," which will launch in a new tab. If JupyterLab fails to launch the first time, try it again.
-
-<kbd><img src="https://github.com/jpivarski-talks/2023-07-11-scipy-tutorial-advanced-numpy/assets/1852447/0cab351a-a476-4f1b-9417-713479f22465" width="100%"></img></kbd>
-
-6. The Codespace will shut down if it's idle, but all of your changes are saved until you _delete_ the Codespace.
+You can also install the packages on your personal computer. If you're accessing this after the day of the tutorial, this is the only way to do it (Nebari won't be available), but if it's the day of the tutorial, Nebari is strongly preferred. We won't take any tutorial time to solve installation problems.
 
 <br>
 
