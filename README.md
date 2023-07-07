@@ -22,7 +22,7 @@ You should have a basic familiarity with NumPy, such as the content of the "[Int
 
 This tutorial consists of interactive lectures and exercises, all of which run in Jupyter notebooks. These notebooks depend on the libraries listed in [environment.yml](environment.yml). On the day of the tutorial, we will use Quansight's Nebari platform to run the notebooks in the cloud with all dependencies installed. See
 
-<h3 align="center"><a href="https://docs.google.com/document/d/1vnWhNyUBRpILb2MAHQfTmZQY3pCIaCmroV9ke49nQlE/edit?usp=sharing", target="_blank">Nebari instructions</a></h3>
+<h3 align="center"><a href="https://docs.google.com/document/d/1vnWhNyUBRpILb2MAHQfTmZQY3pCIaCmroV9ke49nQlE/edit?usp=sharing">Nebari instructions</a></h3>
 
 to get started.
 
@@ -75,11 +75,15 @@ In each directory, [part-1](part-1), [part-2](part-2), and [part-3](part-3), the
   * **project:** a larger exercise to work on after each lecture
   * **solutions:** discussion of different ways to solve the exercise.
 
-During the live tutorial, participants should open the **lecture-workbook**. The **lecture-slides** will be projected on a big screen. When you're working on problems, I'll share [this Slido link](https://app.sli.do/event/mAiL1wgxpBXyTrRFTEsC94/embed/polls/da924656-e37b-4aa8-828c-90d7faa58915) for feedback:
+During the live tutorial, participants should open the **lecture-workbook**. The **lecture-slides** will be projected on a big screen. Offline, after the event, open both notebooks and read through the **lecture-slides**.
 
-<p align="center"><a href="https://app.sli.do/event/mAiL1wgxpBXyTrRFTEsC94/embed/polls/da924656-e37b-4aa8-828c-90d7faa58915"><img src="https://github.com/jpivarski-talks/2023-07-11-scipy2023-tutorial-thinking-in-arrays/assets/1852447/1603b323-fb27-4023-a1ed-7e2c979c7669"></a></p>
+When everyone is working on exercises, I'll share
 
-Offline, after the event, open both notebooks and read through the **lecture-slides**.
+<h3 align="center"><a href="https://app.sli.do/event/mAiL1wgxpBXyTrRFTEsC94/embed/polls/da924656-e37b-4aa8-828c-90d7faa58915">this Slido link</a></h3>
+
+to follow your progress. It should take you to a page that looks like this:
+
+<p align="center"><picture><img src="https://github.com/jpivarski-talks/2023-07-11-scipy2023-tutorial-thinking-in-arrays/assets/1852447/1603b323-fb27-4023-a1ed-7e2c979c7669"></picture></p>
 
 ## Timeline of the tutorials
 
