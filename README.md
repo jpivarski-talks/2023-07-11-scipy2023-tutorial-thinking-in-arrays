@@ -75,7 +75,9 @@ In each directory, [part-1](part-1), [part-2](part-2), and [part-3](part-3), the
   * **project:** a larger exercise to work on after each lecture
   * **solutions:** discussion of different ways to solve the exercise.
 
-During the live tutorial, participants should open the **lecture-workbook**. The **lecture-slides** will be projected on a big screen.
+During the live tutorial, participants should open the **lecture-workbook**. The **lecture-slides** will be projected on a big screen. When you're working on problems, I'll share [this Slido link](https://app.sli.do/event/mAiL1wgxpBXyTrRFTEsC94/embed/polls/da924656-e37b-4aa8-828c-90d7faa58915) for feedback:
+
+<p align="center"><a href="https://app.sli.do/event/mAiL1wgxpBXyTrRFTEsC94/embed/polls/da924656-e37b-4aa8-828c-90d7faa58915"><img src="https://github.com/jpivarski-talks/2023-07-11-scipy2023-tutorial-thinking-in-arrays/assets/1852447/1603b323-fb27-4023-a1ed-7e2c979c7669"></a></p>
 
 Offline, after the event, open both notebooks and read through the **lecture-slides**.
 
