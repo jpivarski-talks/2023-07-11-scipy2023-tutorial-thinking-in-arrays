@@ -105,7 +105,11 @@ Spend only 10 minutes on solutions; move on to part 2 at 9:30.
 
 **1:35‒1:55 (20 min):** Project 2: evaluating a decision tree, by walking over each node individually (as in a computer science class) and by million-ball Plinko! (how Scikit-Learn actually does it).
 
+Finish at 10:25 (a little more than 20 minutes).
+
 **1:55‒2:10 (15 min):** Break
+
+5 minute break: start solutions to project 2 at 10:30.
 
 **2:10‒2:40 (30 min):** Solutions to Project 2.
 
