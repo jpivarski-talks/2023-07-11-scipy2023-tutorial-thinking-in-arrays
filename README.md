@@ -91,9 +91,15 @@ to follow your progress. It should take you to a page that looks like this:
 
 **0:20‒0:40 (20 min):** Project 1: Conway's Game of Life. Calculating number of neighbors and updating the board "all at once."
 
+Change of plan: project 1 goes until 9:15, and then a 5 minute break.
+
 **0:40‒0:55 (15 min):** Break
 
+Solutions of project 1 starts at 9:20.
+
 **0:55‒1:15 (20 min):** Guided discussion of solutions to Project 1.
+
+Spend only 10 minutes on solutions; move on to part 2 at 9:30.
 
 **1:15‒1:35 (20 min):** Part 2 lecture: array-oriented programming and the "iteration until converged" problem. How to update arrays in which some elements have converged and others haven't.
 
