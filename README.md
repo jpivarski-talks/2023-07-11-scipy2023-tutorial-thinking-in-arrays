@@ -119,4 +119,6 @@ Finish at 10:25 (a little more than 20 minutes).
 
 **3:25‒3:40 (15 min):** Break
 
+Skipping the last break, we work on project 3 until 11:55, and then I'll use the last 5 minutes to show solutions. (Hint: the solution is small enough that it can be done in 5 minutes.)
+
 **3:40‒4:00 (20 min):** Solutions to Project 3.
